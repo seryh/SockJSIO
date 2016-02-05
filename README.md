@@ -8,6 +8,7 @@ wrapper from SockJS lib, implements a simple protocol
 ```HTML
 <script src="vendor/sockjs-0.3.4.js"></script>
 <script src="vendor/EventEmitter.js"></script>
+<script src="vendor/sockjs-io.js"></script>
 ````
 
 ```JavaScript
