@@ -1,5 +1,9 @@
 ##SockJSIO
 
+wrapper from SockJS lib, implements a simple protocol
+
+
+##Example
 
 ```HTML
 <script src="vendor/sockjs-0.3.4.js"></script>
