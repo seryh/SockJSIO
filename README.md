@@ -1,6 +1,9 @@
 ##SockJSIO
 
-wrapper from SockJS lib, implements a simple protocol
+Wrapper from SockJS library, implements a simple protocol and
+reconnect options if connection lost.
+
+server implementation - https://github.com/seryh/sockjs-clojure
 
 
 ##Example
