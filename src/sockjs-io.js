@@ -5,8 +5,8 @@
  * protocol: ["EventName", data]
  *
  * dependencies:
- *      EventEmitter v4.2.11 - git.io/ee
- *      SockJS v0.3.4- https://github.com/sockjs/sockjs-client
+ *      "wolfy87-eventemitter": "4.3.0",
+ *      "sockjs-client": "1.0.3"
  *
  * (c) Seryh Oleg
  * https://github.com/seryh
