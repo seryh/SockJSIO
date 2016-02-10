@@ -12,6 +12,7 @@
  * https://github.com/seryh
  */
 
+
 (function (EventEmitter, SockJS) {
 
     var _extend = function(obj1, obj2) {
@@ -130,4 +131,6 @@
         root.SockJSIO = SockJSIO;
     }
 
-}(EventEmitter, SockJS));
+}(
+    require('wolfy87-eventemitter'),
+    require('sockjs-client')));

@@ -9,9 +9,7 @@ server implementation - https://github.com/seryh/sockjs-clojure
 ##Example
 
 ```HTML
-<script src="vendor/sockjs-0.3.4.js"></script>
-<script src="vendor/EventEmitter.js"></script>
-<script src="sockjs-io.js"></script>
+<script src="build/SockJSIO.min.js"></script>
 ````
 
 ```JavaScript
