@@ -12,7 +12,7 @@ var config = {
         libraryTarget: 'umd'
     },
     plugins: [
-       // new webpack.optimize.UglifyJsPlugin()
+        new webpack.optimize.UglifyJsPlugin()
     ],
     devtool: 'source-map'
 };
